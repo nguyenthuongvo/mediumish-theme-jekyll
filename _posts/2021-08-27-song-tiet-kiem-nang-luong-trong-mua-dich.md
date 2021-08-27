@@ -4,6 +4,7 @@ title:  "Sống tiết kiệm năng lượng trong mùa dịch"
 author: soln
 categories: [ stories ]
 tags: [ble, life]
+featured: true
 image: assets/images/2021-08-27-2.png
 ---
 Dịch COVID đã kéo dài hơn 3 tháng trùng với thời gian tui đang thất nghiệp, mỗi ngày trên tất cả báo mạng đều update số  ca COVID trong khu cách li, trong cộng đồng.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Trang lưu giữ kỉ niệm, kiến thức của SOLN
 permalink: /about
 comments: true
 ---
@@ -8,28 +8,20 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Đây là một trang Blog cá nhân lưu trữ kỉ niệm, kinh nghiệm thời trẻ trâu của Soln. Ngoài viết Blog chém gió, Soln còn là một Software Developer và thỉnh thoảng còn hay chạy like dạo cho Fanpage, Youtube.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
-
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
-
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p class="mb-5"><img class="shadow-lg" src="https://images.unsplash.com/photo-1552546264-798abaabce28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="jekyll template mediumish" /></p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Đặt hàng like Page, view Tiktok</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Cảm ơn các bạn đã ủng hộ dịch vụ của tui, liên hệ với tui qua Mess để  Order like cho Fanpage nhá.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
+<a target="_blank" href="https://m.me/soln.link" class="btn btn-success">Đặt hàng</a>
 </div>
 </div>
 </div>

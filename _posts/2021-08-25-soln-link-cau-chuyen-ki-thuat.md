@@ -4,6 +4,7 @@ title:  "Soln.link được tạo ra như thế nào?"
 author: soln
 categories: [ soln, stories ]
 tags: [red, yellow]
+featured: true
 image: assets/images/2021-08-27-1.png
 ---
 > Bài viết này tôi tập trung nói về kĩ thuật hơn là chia sẽ ý nghĩa, lý
